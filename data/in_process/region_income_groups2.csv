@@ -1,62 +1,62 @@
-,IncomeRegionGroup,Country Code,country,iso_code
-0,Africa Eastern and Southern,AFE,,
-1,Africa Western and Central,AFW,,
-2,Arab World,ARB,,
-3,Central Europe and the Baltics,CEB,,
-4,Caribbean small states,CSS,,
-5,East Asia & Pacific (excluding high income),EAP,,
-6,Early-demographic dividend,EAR,,
-7,East Asia & Pacific,EAS,,
-8,Europe & Central Asia (excluding high income),ECA,,
-9,Europe & Central Asia,ECS,,
-10,Euro area,EMU,,
-11,European Union,EUU,,
-12,Fragile and conflict affected situations,FCS,,
-13,High income,HIC,,
-14,Heavily indebted poor countries (HIPC),HPC,,
-15,IBRD only,IBD,,
-16,IDA & IBRD total,IBT,,
-17,IDA total,IDA,,
-18,IDA blend,IDB,,
-19,IDA only,IDX,,
-20,Latin America & Caribbean (excluding high income),LAC,,
-21,Latin America & Caribbean,LCN,,
-22,Least developed countries: UN classification,LDC,,
-23,Low income,LIC,,
-24,Lower middle income,LMC,,
-25,Low & middle income,LMY,,
-26,Late-demographic dividend,LTE,,
-27,Middle East & North Africa,MEA,,
-28,Middle income,MIC,,
-29,Middle East & North Africa (excluding high income),MNA,,
-30,North America,NAC,,
-31,OECD members,OED,,
-32,Other small states,OSS,,
-33,Pre-demographic dividend,PRE,,
-34,Pacific island small states,PSS,,
-35,Post-demographic dividend,PST,,
-36,South Asia,SAS,,
-37,Sub-Saharan Africa (excluding high income),SSA,,
-38,Sub-Saharan Africa,SSF,,
-39,Small states,SST,,
-40,East Asia & Pacific (IDA & IBRD),TEA,,
-41,Europe & Central Asia (IDA & IBRD),TEC,,
-42,Latin America & Caribbean (IDA & IBRD),TLA,,
-43,Middle East & North Africa (IDA & IBRD),TMN,,
-44,South Asia (IDA & IBRD),TSA,,
-45,Sub-Saharan Africa (IDA & IBRD),TSS,,
-46,Upper middle income,UMC,,
-47,World,WLD,,
-48,,,Africa,AFR
-49,,,Asia,ASI
-50,,,Asia (excl. China and India),ASI-XCNIN
-51,,,Europe,EUR
-52,,,Europe (excl. EU-27),EUR-X27
-53,,,Europe (excl. EU-28),EUR-X28
-54,,,European Union (27),EU-27
-55,,,European Union (28),EU-28
-56,,,North America,NAM
-57,,,North America (excl. USA),NAM-XUSA
-58,,,Oceania,OCE
-59,,,South America,SAM
-60,,,World,WLD
+,IncomeRegionGroup,Country Code
+0,Africa Eastern and Southern,AFE
+1,Africa Western and Central,AFW
+2,Arab World,ARB
+3,Central Europe and the Baltics,CEB
+4,Caribbean small states,CSS
+5,East Asia & Pacific (excluding high income),EAP
+6,Early-demographic dividend,EAR
+7,East Asia & Pacific,EAS
+8,Europe & Central Asia (excluding high income),ECA
+9,Europe & Central Asia,ECS
+10,Euro area,EMU
+11,European Union,EUU
+12,Fragile and conflict affected situations,FCS
+13,High income,HIC
+14,Heavily indebted poor countries (HIPC),HPC
+15,IBRD only,IBD
+16,IDA & IBRD total,IBT
+17,IDA total,IDA
+18,IDA blend,IDB
+19,IDA only,IDX
+20,Latin America & Caribbean (excluding high income),LAC
+21,Latin America & Caribbean,LCN
+22,Least developed countries: UN classification,LDC
+23,Low income,LIC
+24,Lower middle income,LMC
+25,Low & middle income,LMY
+26,Late-demographic dividend,LTE
+27,Middle East & North Africa,MEA
+28,Middle income,MIC
+29,Middle East & North Africa (excluding high income),MNA
+30,North America,NAC
+31,OECD members,OED
+32,Other small states,OSS
+33,Pre-demographic dividend,PRE
+34,Pacific island small states,PSS
+35,Post-demographic dividend,PST
+36,South Asia,SAS
+37,Sub-Saharan Africa (excluding high income),SSA
+38,Sub-Saharan Africa,SSF
+39,Small states,SST
+40,East Asia & Pacific (IDA & IBRD),TEA
+41,Europe & Central Asia (IDA & IBRD),TEC
+42,Latin America & Caribbean (IDA & IBRD),TLA
+43,Middle East & North Africa (IDA & IBRD),TMN
+44,South Asia (IDA & IBRD),TSA
+45,Sub-Saharan Africa (IDA & IBRD),TSS
+46,Upper middle income,UMC
+47,World,WLD
+48,Africa,AFR
+49,Asia,ASI
+50,Asia (excl. China and India),ASI-XCNIN
+51,Europe,EUR
+52,Europe (excl. EU-27),EUR-X27
+53,Europe (excl. EU-28),EUR-X28
+54,European Union (27),EU-27
+55,European Union (28),EU-28
+56,North America,NAM
+57,North America (excl. USA),NAM-XUSA
+58,Oceania,OCE
+59,South America,SAM
+60,World,WLD

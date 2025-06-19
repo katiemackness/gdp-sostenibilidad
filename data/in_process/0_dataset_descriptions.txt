@@ -1,0 +1,34 @@
+- gdp_countries_structured.csv
+    - Contains Country name and their country codes
+     which came from the GDP datasets
+
+- gdp_region_groups_structured.csv
+    - Contains regions and economic group names
+    with their country code from the GDP datasets
+
+- gdp_by_country_structured.csv
+    - Contains structured GDP states
+    by % annual growth
+
+- gdp_by_groups_structured.csv
+    - Contains annual % growth and constant 
+    for the regional and economic groups
+
+- emissions_region_groups_structured.csv
+    - Updates the region groups to include those
+    from the emissions database
+    and eliminate null Country Codes
+
+- countries_cleaned.csv
+    - countries after cleaning phase
+
+- region_groups_cleaned.csv
+    - regions and economic groups after cleaning phase
+
+- gdp_by_groups_cleaned
+    - GDP stats by (annual % and constant USD)
+    after cleaning phase by region and economic group
+
+- gdp_by_country_cleaned
+    - GDP stats (annual % and constant USD)
+    after cleaning phase by country

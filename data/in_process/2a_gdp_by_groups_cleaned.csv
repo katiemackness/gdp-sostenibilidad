@@ -1,4 +1,4 @@
-,Country Code,IncomeRegionGroup,Year,GDPAnnualPercent,GDPAnnualPercent_winsorized,GDPConstantUSD,GDPConstantUSD_log
+,Country Code,Region Group Name,Year,GDPAnnualPercent,GDPAnnualPercent_winsorized,GDPConstantUSD,GDPConstantUSD_log
 0,AFE,Africa Eastern and Southern,1960,-2.13663049237276,-2.13663049237276,1172.31628457958,7.067589449630611
 1,AFE,Africa Eastern and Southern,1961,-2.13663049237276,-2.13663049237276,1147.2682173762,7.046010188419653
 2,AFE,Africa Eastern and Southern,1962,5.00983479550719,5.00983479550719,1204.74445972811,7.094852464062398

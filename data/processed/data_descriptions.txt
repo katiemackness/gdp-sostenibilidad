@@ -1,0 +1,27 @@
+Data Descriptions
+--------------------------------------------------------------------------
+
+Dataset: gdp_co2_country_cleaned.csv
+
+Description:
+This dataset combines GDP and CO₂ emissions data at the country level for temporal and comparative analysis. It merges economic and environmental indicators to support research into sustainability, development patterns, and global inequality.
+
+Columns:
+
+- Country: The name of the country or territory.
+- ISO_Code: The standardized ISO 3166-1 alpha-3 country code (e.g., "USA", "FRA").
+- Year: The calendar year of the observation (e.g., 2015, 2020).
+- GDP: Gross Domestic Product in constant US dollars. Source: World Bank.
+- CO2: Total CO₂ emissions in million metric tons. Source: Our World in Data.
+- GDP_per_capita (optional): GDP divided by population (if included).
+- CO2_per_capita (optional): CO₂ emissions divided by population (if included).
+- Region (optional): The regional or economic group the country belongs to.
+- missing_co2 (Boolean): A flag indicating whether CO₂ data was missing for the observation at the time of merging (True = missing, False = available).
+
+Notes:
+- The dataset has been cleaned and de-duplicated.
+- Entries with mismatched or missing region codes may have been excluded.
+- The index column from prior exports has been dropped.
+
+Updated: June 2025
+Maintained by: Katlyn Goeujon-Mackness (github.com/katiemackness)

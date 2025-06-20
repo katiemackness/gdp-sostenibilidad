@@ -84,6 +84,7 @@ If you have questions, suggestions, or want to share your ideas about the projec
 
 Email: macknessk@gmail.com  
 LinkedIn: Katlyn Goeujon-Mackness
+Kaggle: [Global GDP & CO₂ Emissions Dataset (1960–2022)](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022/data)
 
 
 # Español
